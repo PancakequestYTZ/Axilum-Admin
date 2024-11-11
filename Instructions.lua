@@ -19,7 +19,7 @@
 		
 		To make a custom command, copy the Template Button Object.
 		Then edit the script in it to add actions to it. 
-		there's also existing commands in the Function List.
+		there are also existing commands in the Function List.
 		Remember this is open source
 		
 		-----------------------------------------------------------------------------------
@@ -32,7 +32,7 @@
 		kick  				Moderator
 		ping 				Member
 		:3 					Admin
-		OH_MY_PC			Admin
+		Unrespond			Admin
 		explode	(User)		Moderator
 		saturation (Integer)Admin
 		blur (Integer)		Admin
