@@ -6,3 +6,4 @@ Version V5 Features: Command System for people making the commands
 Version V6 Features: Ghost command and adding of stuff
 Version V7 Features: remade the style of the new GUI
 Version V8 Features: Package link
+Version V9 Features: Plugin Support
